@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning DevOps <br>👯 I’m looking to collaborate on Cloud and DevOps <br>🤝 I’m looking for help with Kubernetes<br>💬 Ask me about DevOps<br>
+🌱 I’m currently learning Frontend Development <br>👯 I’m looking to collaborate on React <br>🤝 I’m looking for help with Node.js<br>💬 Ask me about Frontend<br>
 
 
 ## 🌐 Socials:
